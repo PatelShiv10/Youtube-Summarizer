@@ -1,0 +1,17 @@
+agno
+openai
+exa_py
+httpx
+duckduckgo_search
+python-dotenv
+google-genai
+docx
+streamlit
+youtube_transcript_api
+google-generativeai
+streamlit
+pytube
+sqlalchemy 
+pgvector
+psycopg[binary]
+huggingface-hub
